@@ -22,6 +22,10 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=spranjal3301&theme=holi&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spranjal3301&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+|GitHub|LeetCode|
+|---|---|
+|![Pranjal's GitHub stats](https://github-readme-stats-pankaj-singh-kanyals-projects.vercel.app/api?username=pankajsingh016)|![](https://leetcard.jacoblin.cool/spranjal_3301)|
+
 ---
 [![](https://visitcount.itsvg.in/api?id=spranjal3301&icon=0&color=0)](https://visitcount.itsvg.in)
 
