@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pranjal</h1>
-<h3 align="center">Upcoming Software Engineer.</h3>
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Pranjal%F0%9F%91%8B;Let's+Connect!"/>
+</div>
+<h3 >Upcoming Software Engineer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://pranjalonline.vercel.app/](https://pranjalonline.vercel.app/)
 
