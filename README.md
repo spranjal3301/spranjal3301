@@ -37,9 +37,9 @@ A lot of my repositories that can't be published publicly, you can read more abo
 [![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/spranjal394)
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/spranjal3301)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow&theme=dark)](https://stackoverflow.com/users/21615084/spranjal3301)
-<a href="https://behance.net/spranjal3301"><img  height="50px" width="50px" src="https://github.com/user-attachments/assets/e555219a-6fba-4ecc-9d59-dcff7b44f770" /></a>
+<a href="https://leetcode.com/spranjal_3301/"><img  height="50px" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" /></a>
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/spranjal_3301)
-<a href="https://monkeytype.com/profile/spranjal3301"><img height="55px" src="https://github.com/user-attachments/assets/2ad8f48b-7d28-44d2-abc6-2814248883fb" /></a>&ensp;
+<a href="https://auth.geeksforgeeks.org/user/spranjal_3301"><img height="50px" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" /></a>&ensp;
 <br>
 <!-- <a href="https://discord.com/users/521279231284609032"> <img src="https://lanyard.cnrad.dev/api/521279231284609032" width=35% > </a> -->
 
