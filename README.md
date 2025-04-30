@@ -57,7 +57,7 @@ A lot of my repositories are client work or private projects that can't be publi
   Statistics </h2>
 </summary>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Pranjal's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=spranjal3301&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=470&background=transparent" height="150px"/></a><img alt="Pranjal's Github Stats" src="https://github-readme-stats-main-puce.vercel.app/api?username=spranjal3301&show_icons=true&theme=dark&bg_color=00000000" height="150px"/><img alt="Pranjal's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=spranjal3301&layout=compact&theme=dark&exclude_repo=github-readme-stats&bg_color=00000000&size_weight=0.5&count_weight=0.5&langs_count=6" height="150px"/></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Pranjal's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=spranjal3301&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=470&background=transparent" height="150px"/></a><img alt="Pranjal's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=spranjal3301&layout=compact&theme=dark&exclude_repo=github-readme-stats&bg_color=00000000&size_weight=0.5&count_weight=0.5&langs_count=6" height="150px"/></a>
   
 <img alt="Pranjal's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spranjal3301&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spranjal3301&theme=transparent&utcOffset=5.3" height="200px">
   
