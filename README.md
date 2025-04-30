@@ -66,7 +66,7 @@ A lot of my repositories are client work or private projects that can't be publi
 
 
 
-## Stats:
+## LeetCode:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/spranjal_3301?theme=transparent&font=Hind&ext=heatmap)
 
 
