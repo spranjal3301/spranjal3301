@@ -11,7 +11,7 @@
 
 <p align="left"> I'm a Software Developer and tech enthusiast passionate about building cool projects!</p>
 
-A lot of my repositories are client work or private projects that can't be published publicly, you can read more about them on [my portfolio](https://pranjalonline.vercel.app/)
+A lot of my repositories that can't be published publicly, you can read more about them on [my portfolio](https://pranjalonline.vercel.app/)
 
 - 🔭 I’m currently working on a personal AI assistant called GAIA → [heygaia.io](https://heygaia.io)
 - 👨‍💻 Check out my Portfolio! [pranjal.online](https://pranjalonline.vercel.app/).
